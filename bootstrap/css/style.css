@@ -1,0 +1,43 @@
+.logo{
+  padding: 10px;
+
+}
+
+
+/*
+make sure target taps are big enough and are able to resize
+nav a, button{
+  min-width: 48px;
+  min-height: 48px;
+}
+*/
+
+
+/*
+For making sure the css doesnt overflow
+img, embed, object, video{
+ max-width:
+}
+*/
+
+
+/*
+CSS Resetting: making sure that the css is normalized accross all browsers
+Overflows: add an overflow to let text scroll
+.readingArea{
+  overflow: auto;
+}
+
+
+*/
+
+
+/*
+Media specific query, if it is a screen and the width of screen is < 300px then do this
+specific query
+can use print also if theyre printing the package
+@@media only screen and (max-width: 300px) {
+  p {
+    background-color: blue;
+  }
+}*/
